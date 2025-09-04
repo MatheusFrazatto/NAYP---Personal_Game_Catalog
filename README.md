@@ -1,2 +1,1 @@
-# NAYP---Smart_Price_Tracker
-Track, compare, and save on what you need
+# NAYP---Personal_Game_Catalog
